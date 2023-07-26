@@ -14,7 +14,7 @@ public class PushToRepo {
 			System.out.println("a is smaller than b");
 
 		}
-		// push and pull 
+		// push and pull practice
 
 	}
 
