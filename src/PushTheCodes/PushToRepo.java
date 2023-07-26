@@ -3,9 +3,7 @@ package PushTheCodes;
 public class PushToRepo {
 
 	public static void main(String[] args) {
-
 		System.out.println("pullMethod");
-
 	}
 	public void pullMethod(){
 		int a = 8;
