@@ -3,9 +3,9 @@ package PushTheCodes;
 public class PushToRepo {
 
 	public static void main(String[] args) {
-		System.out.println("pullMethod");
+		System.out.print(pullMethod());
 	}
-	public void pullMethod(){
+	public static boolean pullMethod(){
 		int a = 8;
 		int b =9;
 		if(a > b){
@@ -15,6 +15,7 @@ public class PushToRepo {
 
 		}
 		// push and pull practice
+		return false;
 
 	}
 
